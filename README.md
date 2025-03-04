@@ -6,24 +6,24 @@
 - 🌱 I’m currently learning Rust for deepning my skills in software engineering
 - 👯 I’m looking to collaborate on Rust-based and Other Opensource projects intrests 
 ### Languages and Tools:
-![Html](./assets/html-icon.svg)
-![CSS](./assets/css-icon.svg)
-![JS](./assets/javascript-programming-language-icon.svg)
-![PHP](./assets/php-programming-language-icon.svg)
-![Git](./assets/git-icon.svg)
-![Linux](./assets/Linux.svg)
-![Mysql](./assets/mysql-icon.svg)
-![Mongodb](./assets/mongodb-icon.svg)
+![Html](./assets/html-icon.svg =30x30)
+![CSS](./assets/css-icon.svg =30x30)
+![JS](./assets/javascript-programming-language-icon.svg =30x30)
+![PHP](./assets/php-programming-language-icon.svg =30x30) 
+![Git](./assets/git-icon.svg =30x30)
+![Linux](./assets/Linux.svg =30x30)
+![Mysql](./assets/mysql-icon.svg =30x30)
+![Mongodb](./assets/mongodb-icon.svg =30x30)
 <!--
 ![Linux](./assets/Linux.svg)
 ![Linux](./assets/Linux.svg)
 ![Linux](./assets/Linux.svg)i
 -->
 - ##### Frameworks
-![Tailwindcss](./assets/tailwind-css-icon.svg)
-![Bootstarp](./assets/bootstrap-5-logo-icon.svg)
-![Laravel](./assets/laravel-icon.svg)
-![React](./assets/react-icon.svg)
+![Tailwindcss](./assets/tailwind-css-icon.svg =30x30)
+![Bootstarp](./assets/bootstrap-5-logo-icon.svg =30x30)
+![Laravel](./assets/laravel-icon.svg =30x30)
+![React](./assets/react-icon.svg =30x30)
 
 
 <!--
